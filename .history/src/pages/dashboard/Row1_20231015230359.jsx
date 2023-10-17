@@ -1,0 +1,43 @@
+import { Stack } from "@mui/material";
+import Card from "./card";
+import EmailIcon from "@mui/icons-material/Email";
+import PointOfSaleIcon from "@mui/icons-material/PointOfSale";
+import PersonAddIcon from "@mui/icons-material/PersonAdd";
+import TrafficIcon from "@mui/icons-material/Traffic";
+
+const Row1 = () => {
+  const theme = useThe
+  return (
+    <Stack
+      direction={"row"}
+      gap={1}
+      flexWrap={"wrap"}
+      justifyContent={{ xs: "center", sm: "space-between" }}
+    >
+      <Card
+        icon={<EmailIcon fontSize="23px" color />}
+        title="12,361"
+        subTitle="Emails Sent"
+        chart=""
+        increase="+14%"
+      />
+      <Card
+        icon={<PointOfSaleIcon />}
+        title=""
+        subTitle=""
+        chart=""
+        increase=""
+      />
+      <Card
+        icon={<PersonAddIcon />}
+        title=""
+        subTitle=""
+        chart=""
+        increase=""
+      />
+      <Card icon={<TrafficIcon />} title="" subTitle="" chart="" increase="" />
+    </Stack>
+  );
+};
+
+export default Row1;
