@@ -1,6 +1,7 @@
 # Admin-Dashboard
 
-![Admin-Dashboard Screenshot](screenshot.png)
+![Admin-Dashboard Screenshot](![image](https://github.com/abdulrahmanmahmood/Admin-Daschboard/assets/126025222/97655b97-7dac-49dd-98c5-c58d8ccb0f7f)
+)
 
 **Admin-Dashboard** is a responsive web application built with React, Vite, and Material UI for creating and managing users, visualizing data, managing teams, and scheduling events. It features dark and light mode support for an optimal user experience.
 
