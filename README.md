@@ -30,19 +30,20 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/Admin-Dashboard.git
-Navigate to the project directory:
+   
+2. Navigate to the project directory:
 
-bash
-Copy code
-cd Admin-Dashboard
-Install the dependencies:
+   ```bash
+   cd Admin-Dashboard
 
-bash
-Copy code
-npm install
-Start the development server:
+3. Install the dependencies:
 
-bash
-Copy code
-npm run dev
-Open your browser and access the app at http://localhost:3000.
+   ```bash
+   npm install
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+
+5.Open your browser and access the app at http://localhost:3000.
