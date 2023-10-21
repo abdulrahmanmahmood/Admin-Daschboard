@@ -1,8 +1,48 @@
-# React + Vite
+# Admin-Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Admin-Dashboard Screenshot](screenshot.png)
 
-Currently, two official plugins are available:
+**Admin-Dashboard** is a responsive web application built with React, Vite, and Material UI for creating and managing users, visualizing data, managing teams, and scheduling events. It features dark and light mode support for an optimal user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **User Management**: Admins can create and delete user accounts.
+
+- **Data Visualization**: Utilizes Nivo for creating impressive data visualizations, including charts, pie charts, bar charts, line charts, and geography charts.
+
+- **Team Management**: Easily manage teams and team members using the dashboard.
+
+- **Event Calendar**: A calendar feature for scheduling and managing events.
+
+## Screenshots
+
+Include screenshots or GIFs of your app here to give users a visual preview.
+
+## Demo
+
+Provide a link to a live demo or deployment of your app, if available.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/Admin-Dashboard.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd Admin-Dashboard
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm run dev
+Open your browser and access the app at http://localhost:3000.
