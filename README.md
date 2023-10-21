@@ -20,7 +20,7 @@ Include screenshots or GIFs of your app here to give users a visual preview.
 
 ## Demo
 
-Provide a link to a live demo or deployment of your app, if available.
+[live app](https://admin-dashboard-d178c.web.app/faq)
 
 ## Installation
 
