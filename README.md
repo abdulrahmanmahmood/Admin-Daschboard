@@ -17,7 +17,8 @@
 
 ## Screenshots
 
-Include screenshots or GIFs of your app here to give users a visual preview.
+![darl mode](https://github.com/abdulrahmanmahmood/Admin-Daschboard/assets/126025222/5aec5b2a-3771-4669-a50a-792b1e4281ce)
+
 
 ## Demo
 
